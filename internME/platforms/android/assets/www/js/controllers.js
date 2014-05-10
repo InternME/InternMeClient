@@ -16,3 +16,11 @@ angular.module('starter.controllers', [])
 
 .controller('PlaylistCtrl', function($scope, $stateParams) {
 })
+
+.controller("logincontroller", ["$scope", "$firebase", "$firebaseSimpleLogin",
+    function($scope, $firebase, $firebaseSimpleLogin) {
+      var ref = new Firebase("https://internme.firebaseio.com/");
+      $scope.auth = $firebaseSimpleLogin(ref);
+	  
+    }
+  ]);
