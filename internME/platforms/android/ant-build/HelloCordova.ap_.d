@@ -99,8 +99,13 @@ C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\asset
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\browse.html \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\companies.html \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\dashboard.html \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\editmyinfo.html \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\login.html \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\menu.html \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\playlist.html \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\playlists.html \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\resources.html \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\assets\www\templates\search.html \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\AndroidManifest.xml \

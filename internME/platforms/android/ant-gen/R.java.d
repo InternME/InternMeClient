@@ -6,4 +6,9 @@ C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\res\d
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\res\drawable-xhdpi\icon.png \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\res\values\strings.xml \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\res\xml\config.xml \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
 C:\Users\costco\Documents\GitHub\InternMeClient\internME\platforms\android\ant-build\AndroidManifest.xml \

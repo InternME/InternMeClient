@@ -25,7 +25,15 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       controller: 'AppCtrl'
     })
 
-    .state('app.search', {
+    .state('app.dashboard', {
+      url: "/dashboard",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/dashboard.html"
+        }
+      }
+    })
+	.state('app.search', {
       url: "/search",
       views: {
         'menuContent' :{
@@ -33,21 +41,35 @@ angular.module('starter', ['ionic', 'starter.controllers'])
         }
       }
     })
-
-    .state('app.browse', {
-      url: "/browse",
+    .state('app.companies', {
+      url: "/companies",
       views: {
         'menuContent' :{
-          templateUrl: "templates/browse.html"
+          templateUrl: "templates/companies.html"
         }
       }
     })
-    .state('app.playlists', {
-      url: "/playlists",
+    .state('app.login', {
+      url: "/login",
       views: {
         'menuContent' :{
-          templateUrl: "templates/playlists.html",
-          controller: 'PlaylistsCtrl'
+          templateUrl: "templates/login.html",
+        }
+      }
+    })
+	.state('app.resources', {
+      url: "/resources",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/resources.html",
+        }
+      }
+    })
+	.state('app.editmyinfo', {
+      url: "/editmyinfo",
+      views: {
+        'menuContent' :{
+          templateUrl: "templates/editmyinfo.html",
         }
       }
     })
@@ -62,6 +84,6 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     });
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/app/playlists');
+  $urlRouterProvider.otherwise('/app/login');
 });
 
